@@ -14,16 +14,17 @@ export default function HeaderContainer({ children }) {
             <Header.Frame>
                 <Header.Logo />
                 <Header.Title>{t('Dokumentarni filmovi.1')}</Header.Title>
-                <Header.SubTitle>Пабат - Braća Tasić & co.</Header.SubTitle>
+                <Header.SubTitle>Braća Tasić & co.</Header.SubTitle>
                 <Header.ButtonContainer>
                     <Header.LanguageButton onClick={()=>handleClick('sr')}>sr</Header.LanguageButton>
+                    <span>/</span>
                     <Header.LanguageButton onClick={()=>handleClick('en')}>eng</Header.LanguageButton>
                 </Header.ButtonContainer>
                 <Header.Navbar>
                     <Header.NavbarItem>{t('Naslovna.1')}</Header.NavbarItem>
-                    <Header.NavbarItem>filmovi</Header.NavbarItem>
-                    <Header.NavbarItem>o nama</Header.NavbarItem>
-                    <Header.NavbarItem>kontakt</Header.NavbarItem>
+                    <Header.NavbarItem>{t('Filmovi.1')}</Header.NavbarItem>
+                    <Header.NavbarItem>{t('O nama.1')}</Header.NavbarItem>
+                    <Header.NavbarItem>{t('Kontakt.1')}</Header.NavbarItem>
                 </Header.Navbar>
             </Header.Frame>
         </Header>
