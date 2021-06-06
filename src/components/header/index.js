@@ -2,8 +2,8 @@ import React from 'react'
 import { Background, Container, Logo, Title, SubTitle, ButtonContainer, Button, Navbar, NavbarItem} from './styles/header'
 
 
-
 export default function Header({ children, ...restProps }) {
+
     return <Background {...restProps}>{children}</Background>
 }
 
