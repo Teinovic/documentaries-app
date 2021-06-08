@@ -31,5 +31,57 @@
     },    
     "Film6": {
         "1": "Stvaran svet"
+    },
+    "Paragraf1": {
+        "1": "Agencija PABAT je iz Kragujevca sa kancelarijom u Beogradu. Bavimo se organizovanjem filmskih i pozorišnih događaja. Glavni cilj agencije je rad sa mladim ljudima na projektima edukativnog sadržaja za mlade."
+    },
+    "Paragraf2": {
+        "1": "Projekat čiji je radni naziv “Važno je da znaš” je projekat edukativnog karaktera koji ima za cilj da se što više mladih na što bolji i njima prihvatljiviji način informiše o temama bitnim kako za njih tako i za njihovu okolinu."
+    },
+    "Paragraf3": {
+        "1": "Na samom projektu učestvovaće više od 60 mladih prespektivnih ljudi. Projekat čini šest filmova. Filmovi su osmišljeni tako da svaka tema pokriva jednu uzrasnu grupu dok svih šest filmova pokrivaju uzrast od prvog razreda osnovne do četvrtog razreda srednje škole. "
+    },
+    "Paragraf4": {
+        "1": "Važno je napomenuti da su scenariji pisani u saradnji dramaturga sa Fakulteta dramskih umetnosti, dečijih psihologa i prosvetnih radnika kako bi teme bile što prihvatljivije i što jasnije za ciljanu uzrasnu grupu."
+    },
+    "KontaktNaslov": {
+        "1": "Kontakt"
+    },
+    "KontaktAgencija": {
+        "1": "Agencija za organizaciju umetničkih događaja, PABAT"
+    },
+    "KontaktAdresa1": {
+        "1": "Kosovska 86, 34000 Kragujevac"
+    },
+    "KontaktAdresa2": {
+        "1": "Venizelosova 28, stan 5, 11000 Beograd"
+    },
+    "KontaktMejl": {
+        "1": "mailto:pabatkg@gmail.com"
+    },
+    "KontaktTelefon1": {
+        "1": "Branislav Tasić - +381637729930"
+    },
+    "KontaktTelefon2": {
+        "1": "Pavle Tasić - +381605454264"
+    },
+    "PIB": {
+        "1": "PIB: 110282596"
+    },
+    "MaticniBroj": {
+        "1": "Matični br: 64781006"
+    },
+    "TekuciRacun": {
+        "1": "Tekući račun: 170-0050025086000-87, UniCredit Bank Srbija a.d."
+    },
+    "Film1Naslov": {
+        "1": "Film o diskriminaciji dece sa fizičkim invaliditetom"
+    },
+    "Film1par1": {
+        "1": "hmmm"
+    },
+    "Film1par2": {
+        "1": " i zbližavanja."
     }
 }
+

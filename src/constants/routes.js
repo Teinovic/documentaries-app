@@ -1,0 +1,5 @@
+export const HOME = '/'
+export const FILMS = '/films'
+export const ABOUT_US = '/aboutus'
+export const CONTACT = '/contact'
+export const FILM = '/film'

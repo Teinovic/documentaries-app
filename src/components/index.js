@@ -1,2 +1,5 @@
 export { default as Header } from './header'
 export { default as Main } from './main'
+export { default as Dropdown } from './dropdown'
+export { default as AboutUs } from './aboutUs'
+export { default as Film } from './film'

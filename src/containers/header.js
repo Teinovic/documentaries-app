@@ -1,6 +1,10 @@
 import React from 'react'
 import { Header } from '../components'
 import { useTranslation } from 'react-i18next'
+import Dropdown from './dropdown'
+import { Link } from 'react-router-dom'
+import { NavbarItem } from '../components/header/styles/header'
+
 
 export default function HeaderContainer({ children }) {
     const { t, i18n } = useTranslation()
@@ -18,13 +22,22 @@ export default function HeaderContainer({ children }) {
                 <Header.ButtonContainer>
                     <Header.LanguageButton onClick={()=>handleClick('sr')}>sr</Header.LanguageButton>
                     <span>/</span>
-                    <Header.LanguageButton onClick={()=>handleClick('en')}>eng</Header.LanguageButton>
+                    <Header.LanguageButton onClick={()=>handleClick('en')}>en</Header.LanguageButton>
                 </Header.ButtonContainer>
                 <Header.Navbar>
-                    <Header.NavbarItem>{t('Naslovna.1')}</Header.NavbarItem>
-                    <Header.NavbarItem>{t('Filmovi.1')}</Header.NavbarItem>
-                    <Header.NavbarItem>{t('O nama.1')}</Header.NavbarItem>
-                    <Header.NavbarItem>{t('Kontakt.1')}</Header.NavbarItem>
+                    <Link to='/' style={{textDecoration: 'none'}}>
+                        <Header.NavbarItem>{t('Naslovna.1')}</Header.NavbarItem>
+                    </Link>
+                    <Header.NavbarItem>
+                        <Dropdown />
+                    </Header.NavbarItem>
+                    
+                    <Link to='/aboutUs' style={{textDecoration: 'none'}}>
+                        <Header.NavbarItem>{t('O nama.1')}</Header.NavbarItem>
+                    </Link>
+                    <Link to='/contact' style={{textDecoration: 'none'}}>
+                        <Header.NavbarItem>{t('Kontakt.1')}</Header.NavbarItem>
+                    </Link>
                 </Header.Navbar>
             </Header.Frame>
         </Header>
