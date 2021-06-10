@@ -5,10 +5,11 @@ import App from './app'
 
 import './i18next'
 
+
 ReactDOM.render(
     <Suspense fallback={(<div>Loading ~~~</div>)}>
         <GlobalStyles />
-        <App />
+            <App />
     </Suspense>,
     document.getElementById('root')
 )

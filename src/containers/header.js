@@ -3,15 +3,15 @@ import { Header } from '../components'
 import { useTranslation } from 'react-i18next'
 import Dropdown from './dropdown'
 import { Link } from 'react-router-dom'
-import { NavbarItem } from '../components/header/styles/header'
 
 
 export default function HeaderContainer({ children }) {
     const { t, i18n } = useTranslation()
 
-    function handleClick(language) {
+    function handleLangButtonClick(language) {
         return i18n.changeLanguage(language)
     }
+
     
     return (
         <Header>
@@ -20,9 +20,9 @@ export default function HeaderContainer({ children }) {
                 <Header.Title>{t('Dokumentarni filmovi.1')}</Header.Title>
                 <Header.SubTitle>Braća Tasić & co.</Header.SubTitle>
                 <Header.ButtonContainer>
-                    <Header.LanguageButton onClick={()=>handleClick('sr')}>sr</Header.LanguageButton>
+                    <Header.LanguageButton onClick={()=>handleLangButtonClick('sr')}>sr</Header.LanguageButton>
                     <span>/</span>
-                    <Header.LanguageButton onClick={()=>handleClick('en')}>en</Header.LanguageButton>
+                    <Header.LanguageButton onClick={()=>handleLangButtonClick('en')}>en</Header.LanguageButton>
                 </Header.ButtonContainer>
                 <Header.Navbar>
                     <Link to='/' style={{textDecoration: 'none'}}>

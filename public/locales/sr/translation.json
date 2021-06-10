@@ -75,13 +75,76 @@
         "1": "Tekući račun: 170-0050025086000-87, UniCredit Bank Srbija a.d."
     },
     "Film1Naslov": {
+        "1": "„Blizanci“"
+    },
+    "Film1Podnaslov": {
         "1": "Film o diskriminaciji dece sa fizičkim invaliditetom"
     },
     "Film1par1": {
-        "1": "hmmm"
+        "1": "Milica ide u školu zajedno sa svom ostalom decom, ali je malo specifičnija od ostale dece, a opet potpuno ista kao i svi. Iako je jako pametna i dobra, Milica nema nogu. Nakon što je nastavnica fizičkog natera da preskoči preko kozlića uprkos svom hendikepu, sva deca se smeju Miličinom nezgodnom preskoku, a najglasniji u ismevanju je Đorđe zajedno sa prijateljicom Lanom. Milica doživljava krah samopouzdanja, ali ubrzo mora da se skupi jer počinje kontrolni iz matematike. Milica, najbolja učenica u razredu, pomogne Đorđu i ukaže mu na rezultat. Đorđe, koji je i ranije mislio da je Milica super, ali je ismevao zbog popularnosti u društvu, odlučuje da prekine sa svojim nasilničkim ponašanjem i da se združi sa Milicom. Posvađa se sa Lanom i odlazi da sedi sa Milicom nakon škole u parkiću. Milica i Đorđe piju koka-kolu, slušaju muziku i dogovore se da i sutra idu zajedno u školu."
     },
     "Film1par2": {
-        "1": " i zbližavanja."
-    }
+        "1": "Ovim filmom želeli smo da prikažemo vršnjačko nasilje i njegove ugrožavajuće i toksične elemente se malom nadom da je moguće da se te stvari prevaziđu i da deca, kao i ljudi, budu jednaki. Iako je Đorđe u društvu vaspitavan tako da je verbalno nasilje sastavna komponenta svakog dijaloga, on uspijeva na kraju da prevaziđe taj problem i da uvidi da je Milica super. Iako su deca nekada surova, takođe je moguće da shvate da smo svi na kraju isti ljudi. Iako su deca posle odrastu u neke okrutne ljude moguće je da će odrasti i u neke dobre. Potrebno je samo malo zdravog ljudskog kontakta i zbližavanja."
+    },
+    "Film2Naslov": {
+        "1": "„Kanta“"
+    },
+    "Film2Podnaslov": {
+        "1": "Film o ekologiji i ekološkoj svesti"
+    },
+    "Film2par1": {
+        "1": "Sasvim običan, letnji dan. Muškarac kojem je vidno dosadno, čeka svoju suprugu da završi sa friziranjem. U tom trenutku spazi dvoje bahate dece. Dečak ima konzervu soka, a devojčica kutiju keksa. Njih dvoje počinju da se gađaju, prolaze pored kante za odvajanje otpada i smeće bacaju u regularna kantu. U tom trenutku priča se nastavlja u kanti sa artiklima. Pratimo njihovu avanturu, kako da dođu do kante za odvajanje otpada i tako nastave svoj život."
+    },
+    "Film2par2": {
+        "1": "Ekologija je već dugo prioritet za sve nas. I moramo se baviti njom svuda i u svakom pogledu. Kroz oživljavanje predmeta želimo da se mališani bolje povežu sa likovima. I bolje shvate značaj odvajanja otpada i reciklaže. Učeći o ekologiji i o zaštiti životne sredine mališani stiču navike koje će primenjivati do kraja života. Ako se deca od malih nogu nauče da poštuju i brinu o svetu u kome živimo, odnosno o biljnim i životinjskim vrstama na našoj planeti, oni će doprineti da se taj svet sačuva i za buduće generacije. Drugim rečima, zalagaće se za zaštitu prirode."
+    },
+    "Film3Naslov": {
+        "1": "„Ne brže od propisa“"
+    },
+    "Film3Podnaslov": {
+        "1": "Film o sigurnosti u saobraćaju"
+    },    
+    "Film3par1": {
+        "1":"Tokom uobičajne večeri kod kuće Milan dobija poziv od svog najboljeg druga da idu na žurku. Milan poziv prvo odbija i razmišlja da ostane kod kuće, međutim s obzirom na to da je potpuno zapostavljen od strane svoga oca i maćehe koji imaju novo dete, on odlučuje da ode na žurku. Njegov najbolji drug ga podseća da će tamo biti i Milanova bivša devojka. Milan uzima tatine ključeve od kola i kreće na žurku. U kolima pije viski dok vozi sa svojim najboljim drugom. Na žurci ugleda svoju bivšu devojku sa njenim novim dečkom i nastavlja sve više da pije dok se ne ispovraća. Odluči da priđe svojoj bivšoj devojci koja ne želi da priča sa njim, priđe njen sadašnji dečko koji udari Milana. Milana oteraju sa žurke i on odlučuje da sedne u kola i poveze dve devojke sa sobom. Njegov najbolji drug ga odgovara od toga da vozi, ali Milan forsira to, tako da Aca na kraju sedne u kola. Na putu Milan se zakuca u semafor, pa pozove svog uticajnog oca da ga izbavi. Svi su razočarani u njega, Milan se vrati kući i uđe u sobu svog malog brata dok on spava."
+    },    
+    "Film3par2": {
+        "1":"Zeleli smo da prikazemo uzroke i posledice neodgovorne vožnje koja je sve učestalija kod mladih. Zbog nedovoljne edukacije i relativne zapostavljenosti, mladi često traže beg u alkoholu nakon čega ne umeju pravilno da rasuđuju i imaju uvid u posledice pijanih odluka. Voziti brzo je za njih kul i hrabro, a na pitanje bezbednosti u saobraćaju se smeju. Mi mislimo da bi se pravilnom edukacijom mladih o tome kakve su sve posledice neodgovorne vožnje moglo da se utiče na njih da ozbiljnije razmisle o svojoj bezbednosti. Nismo želeli da uključimo u scenario bilo kakav smrtni slučaj ili veliku povredu, već smo hteli da govorimo o emotivnim uzrocima i posledicama toga. Iz tog razloga smo u sam scenario uključili emotivni i društveni svet junaka, koji s obzirom na manjak ljubavi i edukacije pokušava da se dokaže i uspostavi u društvu na jedini način na koji zna, a to je neposrednom I na kraju, direktnom destrukcijom."
+    },
+    "Film4Naslov": {
+        "1":"„Pozitivna biologija“"
+    },
+    "Film4Podnaslov": {
+        "1":"Film o seksualnom obrazovanju"
+    },    
+    "Film4par1": {
+        "1":"Iako ima mnogo sfera, bitnih podtema i različitih uglova iz kojih bi trebalo da se pristupi ovoj temi, mi smo izabrali da je predstavimo na zabavan, a nikako zastrašujuć način. Seksualna edukacija svakako fali u našim školama i trebalo bi da pokrije teme od upoznavanja sopstvenog tela, preko polno prenosivih bolesti do pitanja pristanka na seksualni odnos. S obzirom da snimamo kratki film za mlađe uzraste, odlučili smo da se bavimo nekim esencijalnim odnosom dva pola koji možemo naći u svetu oko nas i za koji mislimo da je neko prvo upoznavanje mladih sa seksom. Na taj način želimo da oslobodimo decu u prvom koraku seksualne edukacije, a to je prihvatanje i učenje da seks nije i ne treba da bude tabu tema, već tema o kojoj treba razgovarati. Pokrićemo pitanje muško ženskih odnosa kroz odnose iz prirodnog i divljeg sveta, razne vrste plesa i društvene situacije koje mogu da budu komične i simpatične, te deci lako pristupačne. Želimo da pričamo o tome da je sasvim okej da ti se neko dopada i da želiš da mu priđeš, ali da takođe postoji, čak i u prirodi, momenat odbijanja, koji treba uvek prihvatiti. Zamislili smo da te razne kolažne scene koje prikazuju životinje tokom udvaranja, folklor i druge plesove i svakodnevne životne situacije, isprati glas naratora koji će sve to pojašnjavati deci poput neke emisije o prirodi i na neki način banalizovati i pojednostaviti sve ono čega se deca usled nedovoljne edukacije plaše."
+    },    
+    "Film4par2": {
+        "1":".."
+    },
+    "Film5Naslov": {
+        "1":"„Pričaj mi“"
+    },
+    "Film5Podnaslov": {
+        "1":"Film o narkomaniji"
+    },    
+    "Film5par1": {
+        "1":"Smatramo da je zloupotreba narkotika jedna od najvažnijih tema za mlađe adolescente, za koju mislimo da se ne obrađuje dovoljno i često ne na pravi način. Dok su se tokom našeg odrastanja, kako u pop kulturi, tako i u obrazovanju trudili da nam zgade određene vrste droga, kao što je heroin, za ostale vrste mladi ljudi ni ne čuju, dok ne odu na neki prvi rejv ili festival gde će im neko ponuditi male šarene tabletice, koje su pritom, poprilično jeftine."
+    },    
+    "Film5par2": {
+        "1":"Sadašnja generacija mladih odrasta u trenutku kada se drogiranje širi izvan rejvova i festivala na svakodnevne vikend izlaske, i dalje bez bilo kakve svesti o tome kakve su sve posledice tih povremenih izleta u kratkotrajnu narkomaniju. Mi želimo da se bavimo parti drogama, drogama koje se uzimaju kada su mladi već pijani i kada ne umeju pravilno da rasuđuju, ni da odbiju. Te droge se često predstavljaju kao sklop paketa uz muziku - kako đuskati ako nisi uzeo baš ništa? I ako si uzeo malo, tvom organizmu se neće desiti baš ništa. Ili zapravo hoće? Ovim filmom, želimo da dekonstruišemo i srušimo mit o parti drogama kao o bezopasnim i zabavnim supstancama koje se uzimaju s vremena na vreme, i samim tim ne mogu uticati na nas. Želimo da približimo mladima negativna osećanja i procese u našem psihičkom i fizičkom stanju, tokom i nakon uzimanja određene droge. Osim toga, u ovom filmu koristićemo većinski dokumentarne materijale u kojima će svoja iskustva pričati pojedinci koji su se izlečili od narkomanije i koji mogu iz prve ruke da objasne deci ozbiljnost potencijalnog problema koje izazivaju te zabavne i naizgled bezopasne droge."
+    },
+    "Film6Naslov": {
+        "1":"„Stvaran svet“"
+    },
+    "Film6Podnaslov": {
+        "1": "Film o socijalnim mrežama"
+    },    
+    "Film6par1": {
+        "1":"Devojka se budi. Još oči nije otvorila, rukom je krenula ka telefonu. Odrađuje cele rituale šminkanja, spremanja da bi pravila je posebnu fotografije koju će da podeli sa „prijateljima“ na društvenim mrežama. Za to vreme dečak iz njenog odeljenja stoji pod prozorom i zove je da izađu napolje. Njena opterećenost društvenoj mreži i važnosti koju daj pri pripremanju za slikanje i njegovi pozivi da ona izađe gradacijiski rastu. Čak odlaze i u nadrealno."
+    },    
+    "Film6par2": {
+        "1":"Učenici provode na internetu, u proseku, više od 3 sata dnevno, najstariji i do 4 i po sata., dok dve trećine njih vikendom provodi između 4 i 7 sati. Više od dve trećine dece i mladih (74%) ima profil na nekoj društvenoj mreži ili platformi za igranje video- od toga, 41% njih uzrasta 9-10 godina kao i 72% njih uzrasta 11-12 godina kaže da ima profil, iako je minimalna starosna granica, propisana od strane društvenih mreža, obično 13 godina. Približno trećina ispitanih učenika ima probleme zbog količine vremena koje provodi na internetu ili ulazi u sukobe sa porodicom ili prijateljima. Nešto manje od polovine bezuspešno pokušava da provodi manje vremena na internetu i zapostavlja druženje i obaveze (npr. školske zadatke), loše se oseća kada ne može da bude na internetu, dok gotovo petina zanemaruje osnovne biološke potrebe (potrebu za hranom, snom). Mislimo da je bavljenje ovom temom preko potrebno, posebno sa najmlađima. Realno povlačenje crte između stvarnog i virtualnom."
+    }                 
 }
 

@@ -1,20 +1,17 @@
-import React from 'react'
+import React, {useContext} from 'react'
 import { Film } from '../components'
 import { useTranslation } from 'react-i18next'
 
 
-export default function FilmContainer() {
+export default function FilmContainer({children, ...restProps}) {
     const { t } = useTranslation()
-    
-    let captured = (window.location.search.split('film=')[1]||'').split('&')[0]
-    let result = captured ? captured : 'myDefaultValue';
-    
+ 
     return (
         <Film>
-            <Film.Title>{t(`Film${result}Naslov.1`)}</Film.Title>
-            <Film.Paragraph>{t(`Film${result}par1.1`)}</Film.Paragraph>
-            <Film.Paragraph>{t(`Film${result}par2.1`)}</Film.Paragraph>
-
+            <Film.Title>{t(`Film${restProps.prop}Naslov.1`)}</Film.Title>
+            <Film.SubTitle>{t(`Film${restProps.prop}Podnaslov.1`)}</Film.SubTitle>
+            <Film.Paragraph>{t(`Film${restProps.prop}par1.1`)}</Film.Paragraph>
+            <Film.Paragraph>{t(`Film${restProps.prop}par2.1`)}</Film.Paragraph>
         </Film>
     )
 }

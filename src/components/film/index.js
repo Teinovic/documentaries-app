@@ -1,5 +1,5 @@
 import React from 'react'
-import { FilmFrame, FilmTitle, FilmParagraph } from './styles/film'
+import { FilmFrame, FilmTitle, FilmSubtitle, FilmParagraph } from './styles/film'
 
 export default function Film({ children, ...restProps }) {
     return (
@@ -10,6 +10,12 @@ export default function Film({ children, ...restProps }) {
 Film.Title = function Title({ children, ...restProps }) {
     return (
         <FilmTitle {...restProps}>{children}</FilmTitle>
+    )
+}
+
+Film.SubTitle = function SubTitle({ children, ...restProps }) {
+    return (
+        <FilmSubtitle {...restProps}>{children}</FilmSubtitle>
     )
 }
 
