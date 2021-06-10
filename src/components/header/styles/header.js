@@ -3,6 +3,7 @@ import styled from 'styled-components'
 export const Background = styled.section`    
     background: #f8f8f8;
     padding: 1.5em 0;
+    margin-bottom: 3rem;
     text-align: center;
     outline: 2px solid #5DE0D3;
     background-image: url('/images/logo/pabatlogo.png');
@@ -15,7 +16,8 @@ export const Background = styled.section`
     }
 `
 
-export const Container = styled.div``
+export const Container = styled.div`
+`
 
 export const Logo = styled.img`
 

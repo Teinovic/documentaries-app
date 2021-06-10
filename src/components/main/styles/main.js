@@ -25,12 +25,22 @@ export const FilmContainer = styled.div`
 export const FilmTitle = styled.h2`
     text-align: center;
     margin-top: 1em;
-    margin-bottom: 0.3em;
-    font-weight: 300;
+    margin-bottom: 0.7rem;
+    font-weight: 350;
     font-size: 1.7rem;
+    color: black;
+
+    :hover {
+        color: #5DE0D3;
+        cursor: pointer;
+    }
 `
 
 export const FilmImage = styled.img`
-    height: 300px;
     text-align: center;
+    height: 18rem;
+
+    @media (min-width: 675px) {
+        height: 23rem;
+    }
 `
